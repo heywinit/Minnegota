@@ -1,2 +1,2 @@
 # Minecomm
-# Minecomm  A TUI application used to communicate with Minecraft servers using the Minecraft protocol made with GoLang.
+Minecomm  A TUI application used to communicate with Minecraft servers using the Minecraft protocol made with GoLang.
